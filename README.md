@@ -19,6 +19,7 @@ O projeto foi desenvolvido como atividade prática do curso de Análise de Dados
 
 1. Acesse a pasta do projeto pelo terminal.
 2. Caso necessário, conceda permissão de execução ao arquivo:
+```markdown
 ```bash
 chmod +x calculadora.sh
 
